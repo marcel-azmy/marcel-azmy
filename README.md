@@ -10,7 +10,6 @@
 ### Contact with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/marcel-azmy-953082205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcel-azmy-953082205" height="30" width="40"/></a>
-  <a href="https://stackoverflow.com/users/26880430/marcel-azmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marcel-azmy" height="30" width="40" /></a>
   <a href="https://www.facebook.com/marcel.azmy.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcel.azmy.5" height="30" width="40" /></a>
   <a href="https://www.instagram.com/mshmsh_azmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshmsh_azmy" height="30" width="40" /></a>
   <a href="https://github.com/marcel-azmy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="marcel-azmy" height="30" width="40" /></a>
